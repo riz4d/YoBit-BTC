@@ -1,0 +1,12 @@
+{
+	"name": "YoBit",
+	"description": "A python oriented telegram bot with API of https://www.yobit.net Developed By @riz4d",
+	"repository": "https://github.com/riz4d/YoBit-BTC",
+	"env": {
+	},
+	"buildpacks": [
+		{
+			"url": "heroku/python"
+		}
+	]
+}
