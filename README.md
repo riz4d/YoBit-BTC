@@ -1,6 +1,6 @@
 # YoBit-BTC
 
-A python oriented telegram bot for generating temporary Emails Developed By [@riz4d](https://github.com/riz4d) with API of **_https://yobit.net/_**
+A python oriented telegram bot  with API of **_https://yobit.net/_** Developed By [@riz4d](https://github.com/riz4d)
 
 ## What is Yobit?
 
