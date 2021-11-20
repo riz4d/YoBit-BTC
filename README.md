@@ -2,10 +2,14 @@
 
 A python oriented telegram bot for generating temporary Emails Developed By [@riz4d](https://github.com/riz4d) with API of **_https://yobit.net/_**
 
+## What is Yobit?
+
+➪ YoBit is a cryptocurrency exchange that was launched in 2015 by a group of independent European developers and is incorporated in Panama. ... It offers a massive range of tradeable cryptocurrencies (more than 500) in over 8500 crypto-to-crypto and fiat-to-crypto markets.
+
 ## Installation
 
 Fork this repository and
-Put the bot token on `auth_data.py` at `token = "your_token"`
+Put the bot token on `auth_data.py` <br> at `token = "your_token"`
 
 ## Deployment
 
